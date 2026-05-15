@@ -1,0 +1,302 @@
+2026-05-04 01:51:00 → Face stored from Cam1
+2026-05-04 01:51:01 → Intruder detected and image captured
+2026-05-04 01:51:04 → Intruder detected and image captured
+2026-05-04 01:51:09 → Intruder detected and image captured
+2026-05-04 01:51:12 → Switched to Cam2
+2026-05-04 01:51:12 → Intruder detected and image captured
+2026-05-04 01:51:15 → Intruder detected and image captured
+2026-05-04 01:51:17 → Switched to Cam1
+2026-05-04 01:51:18 → Intruder detected and image captured
+2026-05-04 01:51:21 → Intruder detected and image captured
+2026-05-04 10:37:28 → Face stored from Cam1
+2026-05-04 10:37:29 → Intruder detected and image captured
+2026-05-04 10:37:31 → Intruder detected and image captured
+2026-05-04 10:37:34 → Intruder detected and image captured
+2026-05-04 10:37:36 → Switched to Cam2
+2026-05-04 10:37:36 → Person moved Cam1 → Cam2
+2026-05-04 10:37:37 → Person moved Cam1 → Cam2
+2026-05-04 10:37:37 → Intruder detected and image captured
+2026-05-04 10:37:38 → Person moved Cam1 → Cam2
+2026-05-04 10:37:39 → Person moved Cam1 → Cam2
+2026-05-04 10:37:39 → Person moved Cam1 → Cam2
+2026-05-04 10:37:40 → Person moved Cam1 → Cam2
+2026-05-04 10:37:40 → Intruder detected and image captured
+2026-05-04 10:37:41 → Person moved Cam1 → Cam2
+2026-05-04 10:37:42 → Switched to Cam1
+2026-05-04 10:37:44 → Intruder detected and image captured
+2026-05-04 10:37:47 → Intruder detected and image captured
+2026-05-04 10:37:50 → Intruder detected and image captured
+2026-05-04 14:22:20 → Intruder detected and image captured
+2026-05-04 14:22:21 → Face stored from Cam1
+2026-05-04 14:22:23 → Intruder detected and image captured
+2026-05-04 14:22:26 → Intruder detected and image captured
+2026-05-04 14:22:31 → Intruder detected and image captured
+2026-05-04 14:22:34 → Intruder detected and image captured
+2026-05-04 14:22:40 → Intruder detected and image captured
+2026-05-04 14:22:43 → Intruder detected and image captured
+2026-05-04 14:22:47 → Switched to Cam2
+2026-05-04 14:22:48 → Intruder detected and image captured
+2026-05-04 14:22:52 → Switched to Cam1
+2026-05-04 15:26:24 → Intruder detected and image captured
+2026-05-04 15:26:25 → Face stored from Cam1
+2026-05-04 15:26:27 → Intruder detected and image captured
+2026-05-04 15:26:31 → Intruder detected and image captured
+2026-05-04 15:26:34 → Intruder detected and image captured
+2026-05-04 15:26:36 → Switched to Cam2
+2026-05-04 15:26:36 → Person moved Cam1 → Cam2
+2026-05-04 15:26:37 → Person moved Cam1 → Cam2
+2026-05-04 15:26:37 → Person moved Cam1 → Cam2
+2026-05-04 15:26:38 → Intruder detected and image captured
+2026-05-04 15:26:39 → Person moved Cam1 → Cam2
+2026-05-04 15:26:39 → Person moved Cam1 → Cam2
+2026-05-04 15:26:43 → Person moved Cam1 → Cam2
+2026-05-04 15:26:43 → Intruder detected and image captured
+2026-05-04 15:26:44 → Person moved Cam1 → Cam2
+2026-05-04 15:26:45 → Person moved Cam1 → Cam2
+2026-05-04 15:26:45 → Person moved Cam1 → Cam2
+2026-05-09 14:47:56 → Intruder detected (YOLO) + image saved
+2026-05-09 14:47:57 → Frame stored from Cam1
+2026-05-09 14:47:59 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:03 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:06 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:10 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:13 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:16 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:19 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:20 → Switched to Cam2
+2026-05-09 14:48:20 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:21 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:21 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:22 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:23 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:24 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:24 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:25 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:26 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:27 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:27 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:28 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:29 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:29 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:30 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:31 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:32 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:32 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:33 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:34 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:35 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:35 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:36 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:37 → Intruder detected (YOLO) + image saved
+2026-05-09 14:48:38 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:38 → Movement detected Cam1 → Cam2
+2026-05-09 14:48:39 → Movement detected Cam1 → Cam2
+2026-05-11 11:49:55 → Intruder detected (YOLO) + image saved
+2026-05-11 11:49:56 → Frame stored from Cam1
+2026-05-11 11:49:58 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:01 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:05 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:08 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:12 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:15 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:18 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:21 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:24 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:27 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:30 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:34 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:37 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:40 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:43 → Intruder detected (YOLO) + image saved
+2026-05-11 11:50:46 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:30 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:31 → Frame stored from Cam1
+2026-05-11 11:54:33 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:36 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:39 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:43 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:46 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:50 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:53 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:53 → Switched to Cam2
+2026-05-11 11:54:54 → Movement detected Cam1 → Cam2
+2026-05-11 11:54:54 → Switched to Cam1
+2026-05-11 11:54:56 → Switched to Cam2
+2026-05-11 11:54:58 → Intruder detected (YOLO) + image saved
+2026-05-11 11:54:59 → Movement detected Cam1 → Cam2
+2026-05-11 11:54:59 → Switched to Cam1
+2026-05-11 11:55:01 → Switched to Cam2
+2026-05-11 11:55:01 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:01 → Intruder detected (YOLO) + image saved
+2026-05-11 11:55:02 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:03 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:04 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:04 → Intruder detected (YOLO) + image saved
+2026-05-11 11:55:05 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:06 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:07 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:07 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:08 → Intruder detected (YOLO) + image saved
+2026-05-11 11:55:09 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:10 → Movement detected Cam1 → Cam2
+2026-05-11 11:55:10 → Movement detected Cam1 → Cam2
+2026-05-11 12:32:28 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:29 → Frame stored from Cam1
+2026-05-11 12:32:31 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:34 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:37 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:40 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:43 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:46 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:49 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:52 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:56 → Intruder detected (YOLO) + image saved
+2026-05-11 12:32:59 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:02 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:05 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:08 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:11 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:14 → Switched to Cam2
+2026-05-11 12:33:14 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:15 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:16 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:17 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:17 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:18 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:19 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:19 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:20 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:21 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:21 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:22 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:23 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:24 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:24 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:25 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:26 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:27 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:27 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:28 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:29 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:29 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:30 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:31 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:32 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:32 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:33 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:34 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:34 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:35 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:36 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:36 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:37 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:38 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:39 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:39 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:40 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:41 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:42 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:42 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:43 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:44 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:45 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:45 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:46 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:47 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:47 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:48 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:49 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:49 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:50 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:51 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:52 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:52 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:53 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:54 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:55 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:56 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:56 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:57 → Intruder detected (YOLO) + image saved
+2026-05-11 12:33:58 → Movement detected Cam1 → Cam2
+2026-05-11 12:33:59 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:00 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:01 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:02 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:02 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:03 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:04 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:05 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:05 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:06 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:07 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:08 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:09 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:09 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:10 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:11 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:12 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:13 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:14 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:15 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:15 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:16 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:17 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:18 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:18 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:19 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:20 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:21 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:22 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:23 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:23 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:24 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:25 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:26 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:27 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:28 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:29 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:30 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:30 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:31 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:32 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:33 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:33 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:34 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:35 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:36 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:37 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:37 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:38 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:39 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:40 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:41 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:41 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:42 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:43 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:44 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:44 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:45 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:46 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:47 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:47 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:48 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:49 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:49 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:50 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:51 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:52 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:52 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:53 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:54 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:55 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:56 → Intruder detected (YOLO) + image saved
+2026-05-11 12:34:56 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:57 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:58 → Movement detected Cam1 → Cam2
+2026-05-11 12:34:59 → Intruder detected (YOLO) + image saved
+2026-05-11 12:35:00 → Movement detected Cam1 → Cam2
+2026-05-11 12:35:00 → Movement detected Cam1 → Cam2
+2026-05-11 12:35:01 → Movement detected Cam1 → Cam2
+2026-05-11 12:35:02 → Intruder detected (YOLO) + image saved
+2026-05-11 12:35:03 → Movement detected Cam1 → Cam2
+2026-05-11 12:35:03 → Movement detected Cam1 → Cam2
